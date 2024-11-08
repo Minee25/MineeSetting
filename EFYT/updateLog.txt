@@ -1,0 +1,6 @@
+1.0 base setting
+2.0 fix bug searchbar in chanel
+2.1 fix bug searchbar show after hover
+2.2 -
+2.3 fix bug full Expand
+3.0 fix bug video short, button miniplayer-expand and miniplayer to red
