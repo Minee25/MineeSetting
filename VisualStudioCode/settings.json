@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "editor.tabSize": 2, 
+    "workbench.settings.applyToAllProfiles": [
+
+    ],
+    "code-runner.runInTerminal": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.confirmDragAndDrop": false,
+    "redhat.telemetry.enabled": true,
+    "workbench.activityBar.location": "top",
+    "editor.stickyScroll.enabled": false,
+    "code-runner.ignoreSelection": true,
+
+    "discord.lowerDetailsEditing": "Floppy",
+    "discord.detailsEditing": "🍀: {file_name}",
+    "settingsSync.ignoredExtensions": [],
+}
