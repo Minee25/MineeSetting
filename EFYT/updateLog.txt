@@ -5,3 +5,4 @@
 2.3 fix bug full Expand
 3.0 fix bug video short, button miniplayer-expand and miniplayer to red
 3.1 fix bud full Expand
+4.0 change color search box Suggestions
