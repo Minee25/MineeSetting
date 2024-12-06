@@ -3,3 +3,4 @@
 2.0 remove updateLog, add key Control + Shift + F = open finder
 3.0 remove key Control + Shift + F = open finder, add Caplock + F = open Finder, add Caplock + D = open Launchpad
 4.0 remove key Caplock + F = open Finder, remove Caplock + D = open Launchpad, add Command + Shift + F = open Finder, Command + Shift + D = open Launchpad
+5.0 add Caplock + E = scroll up, Caplock + D = scroll down, Caplock + S = scroll left, Caplock + F = scroll right
